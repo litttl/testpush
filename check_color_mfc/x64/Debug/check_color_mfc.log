@@ -1,0 +1,66 @@
+﻿生成启动时间为 2018/3/6 14:47:04。
+     1>项目“D:\codes\vc\check_color_mfc\check_color_mfc\check_color_mfc\check_color_mfc.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Debug\check_color_mfc.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>D:\Program Files\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\Program Files\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\Program Files\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\check_color_mfc.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt check_color_mfc.cpp check_color_mfcDlg.cpp file_io.cpp img_proc.cpp
+         img_proc.cpp
+     1>img_proc.cpp(29): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(213): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(214): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(216): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(217): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(221): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(222): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(224): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(225): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(235): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>img_proc.cpp(239): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(240): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(241): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(413): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(414): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(416): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(417): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(421): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(422): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(424): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(425): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(435): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>img_proc.cpp(439): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(440): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(441): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(603): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(604): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(606): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(607): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(611): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(612): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(614): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(615): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(625): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>img_proc.cpp(629): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(630): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>img_proc.cpp(631): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+         file_io.cpp
+         check_color_mfcDlg.cpp
+         check_color_mfc.cpp
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\codes\vc\check_color_mfc\check_color_mfc\x64\Debug\check_color_mfc.exe" /INCREMENTAL /NOLOGO opencv_world310d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\codes\vc\check_color_mfc\check_color_mfc\x64\Debug\check_color_mfc.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\codes\vc\check_color_mfc\check_color_mfc\x64\Debug\check_color_mfc.lib" /MACHINE:X64 x64\Debug\check_color_mfc.res
+         x64\Debug\check_color_mfc.obj
+         x64\Debug\check_color_mfcDlg.obj
+         x64\Debug\file_io.obj
+         x64\Debug\img_proc.obj
+         x64\Debug\stdafx.obj
+         check_color_mfc.vcxproj -> D:\codes\vc\check_color_mfc\check_color_mfc\x64\Debug\check_color_mfc.exe
+     1>已完成生成项目“D:\codes\vc\check_color_mfc\check_color_mfc\check_color_mfc\check_color_mfc.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.54
